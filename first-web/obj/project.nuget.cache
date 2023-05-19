@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/oeJWVjZTw6wJNova1ExIziccKVP2oTj2r5Xk7IIBl5CUJBl5D/zNmKid06RTePjsl+Oq1C9F/f4/REqKNNtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\C#\\asp.net\\asp.net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jnHsQCe5fdVvIPLulAazv1zEl0OCfbXa7eySDNHmaD4=",
+  "Source": "middleware",
+  "BasePath": "_content/middleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "middleware\\wwwroot",
+      "Source": "middleware",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\asp.net\\middleware\\wwwroot\\",
+      "BasePath": "_content/middleware",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\asp.net\\middleware\\wwwroot\\test.cs",
+      "SourceId": "middleware",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\asp.net\\middleware\\wwwroot\\",
+      "BasePath": "_content/middleware",
+      "RelativePath": "test.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.cs"
+    }
+  ]
+}
